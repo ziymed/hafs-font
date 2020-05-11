@@ -1,12 +1,12 @@
 @font-face {
   font-family: "KFGQPCHAFSUthmanicScript-Regula";
-  src: url("UthmanicHafs1Ver13.eot");
-  src: url("UthmanicHafs1Ver13.eot?#iefix") format("embedded-opentype"),
-    url("UthmanicHafs1Ver13.otf") format("opentype"),
-    url("UthmanicHafs1Ver13.svg") format("svg"),
-    url("UthmanicHafs1Ver13.ttf") format("truetype"),
-    url("UthmanicHafs1Ver13.woff") format("woff"),
-    url("UthmanicHafs1Ver13.woff2") format("woff2");
+  src: url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.eot");
+  src: url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.eot?#iefix") format("embedded-opentype"),
+    url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.otf") format("opentype"),
+    url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.svg") format("svg"),
+    url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.ttf") format("truetype"),
+    url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.woff") format("woff"),
+    url("https://raw.githack.com/ziymed/hafs-font/master/UthmanicHafs1Ver13.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
